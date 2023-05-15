@@ -18,7 +18,7 @@ export const metadata: Metadata = {
 		siteName: "https://portfolio-taetae.vercel.app",
 		images: [
 			{
-				url: "https://chronark.com/og.png",
+				url: "https://portfolio-taetae.vercel.app/og.png",
 				width: 1920,
 				height: 1080,
 			},
