@@ -14,8 +14,8 @@ export const metadata: Metadata = {
 		title: "Tae's Portfolio Website",
 		description:
 			"Devops engineer at NAB and a student at the University of Melbourne",
-		url: "https://chronark.com",
-		siteName: "chronark.com",
+		url: "https://portfolio-taetae.vercel.app",
+		siteName: "https://portfolio-taetae.vercel.app",
 		images: [
 			{
 				url: "https://chronark.com/og.png",
