@@ -46,13 +46,13 @@ export default function Home() {
 					</Link>
 
 					<br />
-					and a student at {" "}
+					and a student at the{" "}
 					<Link
 						target="_blank"
 						href="https://unimelb.edu.au"
 						className="underline duration-500 hover:text-zinc-300"
 					>
-						the University of Melbourne
+						University of Melbourne
 					</Link>{" "}
 					, studying a Bachelor of Commerce and a concurrent Diploma in Computing.
 				</h2>
