@@ -10,7 +10,7 @@ export default function Example() {
 						Resume
 					</h2>
 					<p className="mt-4 text-zinc-400">
-						Devops Engineer, Aspriring Full Stack Developer, Finance/Computing Student
+						Devops Engineer, Aspiring Full Stack Developer, Finance/Computing Student
 					</p>
 				</div>
 				<div className="w-full h-px bg-zinc-800" />
