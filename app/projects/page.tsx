@@ -24,7 +24,7 @@ export default async function ProjectsPage() {
 		(project) => project.slug === "nextjs-portfolio",
 	)!;
 	const top2 = allProjects.find((project) => project.slug === "mvs-discord")!;
-	const top3 = allProjects.find((project) => project.slug === "mvslib")!;
+	const top3 = allProjects.find((project) => project.slug === "chadgpt")!;
 	const sorted = allProjects
 		.filter((p) => p.published)
 		.filter(
