@@ -10,7 +10,7 @@ export default function Resume() {
                         Resume - Tae Yeong Kim
                     </h2>
                     <p className="mt-4 text-zinc-400">
-                        DevOps Engineer Intern | University of Melbourne Student
+                        DevOps Engineer Intern | Student at the University of Melbourne
                     </p>
                     <p className="mt-2 text-zinc-400">
                         Bachelor of Commerce (Finance) & Diploma in Computing
@@ -25,21 +25,16 @@ export default function Resume() {
                     </h3>
                     <div className="mt-4">
                         <h4 className="text-xl font-bold text-zinc-100">DevOps Engineer Intern</h4>
-                        <p className="mt-2 text-zinc-400">
+                        <p className="mt-2 text-zinc-600 font-bold">
                             National Australia Bank, Feb 2022 - Present
-                            <br/>
-                            Successfully built, deployed and maintained CI/CD pipelines through a custom Jenkins environment deployed in AWS EC2, significantly reducing the time
-                            taken for developers to test and deploy code.
-                            <br/>
-                            Built a custom job using Ansible and AWS Cloudformation to provision a virtual IBM DataPower appliance in AWS ECS using a custom Docker container based
-                            on RHEL, allowing developers to test code in a realistic environment without touching production environments.
-                            <br/>
-                            Assisted in day-to-day operations of Jenkins, including patching, maintenance, upgrades and fixes.
-                            <br/>
-                            Assisted in the migration of Enterprise Jenkins pipelines to our custom Jenkins.
-                            <br/>
-                            Cut deployment times from multiple hours to minutes, saving developers and the whole team time.
                         </p>
+                        <ul className="mt-2 text-zinc-400 list-disc list-inside">
+                            <li>Successfully built, deployed and maintained CI/CD pipelines through a custom Jenkins environment deployed in AWS EC2, significantly reducing the time taken for developers to test and deploy code.</li>
+                            <li>Built a custom job using Ansible and AWS Cloudformation to provision a virtual IBM DataPower appliance in AWS ECS using a custom Docker container based on RHEL, allowing developers to test code in a realistic environment without touching production environments.</li>
+                            <li>Assisted in day-to-day operations of Jenkins, including patching, maintenance, upgrades and fixes.</li>
+                            <li>Assisted in the migration of Enterprise Jenkins pipelines to our custom Jenkins.</li>
+                            <li>Cut deployment times from multiple hours to minutes, saving developers and the whole team time.</li>
+                        </ul>
                     </div>
 
                     <h3 className="text-2xl font-bold tracking-tight text-zinc-100 sm:text-3xl mt-4">
