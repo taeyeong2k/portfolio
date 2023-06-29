@@ -26,7 +26,7 @@ export default function Resume() {
                     <div className="mt-4">
                         <h4 className="text-xl font-bold text-zinc-100">DevOps Engineer Intern</h4>
                         <p className="mt-2 text-zinc-600 font-bold">
-                            National Australia Bank, Feb 2022 - Present
+                            National Australia Bank, Feb 2022 - June 2023
                         </p>
                         <ul className="mt-2 text-zinc-400 list-disc list-inside">
                             <li>Successfully built, deployed and maintained CI/CD pipelines through a custom Jenkins environment deployed in AWS EC2, significantly reducing the time taken for developers to test and deploy code.</li>
