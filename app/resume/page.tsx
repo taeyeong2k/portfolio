@@ -36,11 +36,23 @@ export default function Resume() {
                             <li>Cut deployment times from multiple hours to minutes, saving developers and the whole team time.</li>
                         </ul>
                     </div>
-                    
                     <div className="mt-4">
-                        <h4 className="text-xl font-bold text-zinc-100">Junior Devops Engineer</h4>
-                        <p className="mt-2 text-zinc-600 font-bold">TransPerfect, July 2023- Present</p>
+                        <h4 className="text-xl font-bold text-zinc-100">Junior DevOps Engineer</h4>
+                        <p className="mt-2 text-zinc-600 font-bold">
+                            TransPerfect, July 2023- Present
+                        </p>
+                        <ul className="mt-2 text-zinc-400 list-disc list-inside">
+                            <li>Tasked with assisting the development and client-facing teams in understanding, deploying and maintaining infrastructure related to hosting SaaS applications primarily in AWS.</li>
+                            <li>Manage AWS infrastructure via Terraform and build Amazon Machine Images (AMI) via Packer & Ansible.</li>
+                            <li>Responsible for defining & managing Jenkins Pipelines, and managing our CI/CD pipeline using Git, Docker build, Jenkins, Nexus, Elastic Container Registry.</li>
+                            <li>Perform configuration management through Ansible playbooks, roles, AWX (Ansible Tower).</li>
+                            <li>Involved in process improvement through automation and the "Infrastructure as code" model, ensuring that the deployment of resources is repeatable and clearly defined.</li>
+                            <li>Responsible for scripting using Python & Bash, and building, deploying, & orchestrating containers with Docker.</li>
+                            <li>Conduct Apache / Nginx configuration and performance tuning, and configure and manage CentOS / Red Hat machines in both cloud and data-centre environment.</li>
+                        </ul>
                     </div>
+
+                   
                     <h3 className="text-2xl font-bold tracking-tight text-zinc-100 sm:text-3xl mt-4">
                         Education
                     </h3>
