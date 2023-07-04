@@ -36,14 +36,14 @@ export default function Home() {
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<div className="my-16 text-center animate-fade-in">
 				<h2 className="text-sm text-zinc-500 ">
-					Hi, my name is Tae, I'm a devops engineering intern 
+					Hi, my name is Tae, I'm a Junior Devops Engineer at 
 					at{" "}
 					<Link
 						target="_blank"
-						href="https://nab.com.au"
+						href="https://transperfect.com"
 						className="underline duration-500 hover:text-zinc-300"
 					>
-						NAB,
+						Transperfect,
 					</Link>
 
 					<br />
