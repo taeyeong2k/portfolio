@@ -45,10 +45,11 @@ export default function Resume() {
                             <li>Tasked with assisting the development and client-facing teams in understanding, deploying and maintaining infrastructure related to hosting SaaS applications primarily in AWS.</li>
                             <li>Manage AWS infrastructure via Terraform and build Amazon Machine Images (AMI) via Packer & Ansible.</li>
                             <li>Responsible for defining & managing Jenkins Pipelines, and managing our CI/CD pipeline using Git, Docker build, Jenkins, Nexus, Elastic Container Registry.</li>
-                            <li>Perform configuration management through Ansible playbooks, roles, AWX (Ansible Tower).</li>
+                            <li>Perform configuration management through Ansible playbooks and Terraform.</li>
                             <li>Involved in process improvement through automation and the "Infrastructure as code" model, ensuring that the deployment of resources is repeatable and clearly defined.</li>
                             <li>Responsible for scripting using Python & Bash, and building, deploying, & orchestrating containers with Docker.</li>
-                            <li>Conduct Apache / Nginx configuration and performance tuning, and configure and manage CentOS / Red Hat machines in both cloud and data-centre environment.</li>
+                            <li>Conduct Apache / Nginx configuration and performance tuning, and configure and manage Amazon Linux 2 machines in both cloud and data-centre environment.</li>
+                            <li>Responsible for performing monitoring of production infrastructure, including managing scaling, certificates, and other routine maintenance.</li>
                         </ul>
                     </div>
 
