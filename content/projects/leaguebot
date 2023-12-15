@@ -1,0 +1,10 @@
+---
+title: leaguebot
+description: Discord bot that retrieves stats from the Riot API
+repository: taeyeong2k/leaguebot
+url: https://github.com/taeyeong2k/leaguebot
+date: 2023-12-1
+published: true
+---
+
+Discord bot for a personal project which retrieves stats from the Riot API. Functions include checking in-game account information, registering an in-game account to a discord identity, retrieving match information and more.
